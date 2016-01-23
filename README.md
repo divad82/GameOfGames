@@ -1,0 +1,2 @@
+# GameOfGames
+generic game framework
